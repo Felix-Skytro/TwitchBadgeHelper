@@ -1,3 +1,7 @@
+REM Copyright (c) 2025 Felix Kramer, licensed under MIT.
+REM Check out the GitHub Repo for more information:
+REM https://github.com/Felix-Skytro/TwitchBadgeHelper
+
 @echo off
 setlocal
 
