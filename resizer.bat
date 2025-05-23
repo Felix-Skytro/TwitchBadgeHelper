@@ -13,6 +13,3 @@ mkdir "%filename%" 2>nul
 magick "%filepath%" -resize 18x18 "%filename%\%filename%-18x18.png"
 magick "%filepath%" -resize 36x36 "%filename%\%filename%-36x36.png"
 magick "%filepath%" -resize 72x72 "%filename%\%filename%-72x72.png"
-
-echo Done resizing %filename%
-pause
