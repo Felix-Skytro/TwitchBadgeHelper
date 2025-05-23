@@ -21,7 +21,7 @@ This tool relies on **ImageMagick**, a powerful image conversion utility.
 
 ### 🔧 Windows
 
-1. Download ImageMagick from [imagemagick.org/download](https://imagemagick.org/script/download.php#windows)
+1. [Download ImageMagick](https://imagemagick.org/script/download.php#windows)
 2. During installation, check the option:  
    ✅ *"Add application directory to your system path"*
 3. Confirm that `magick` works by opening Command Prompt and running:
