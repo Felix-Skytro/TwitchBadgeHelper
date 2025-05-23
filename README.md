@@ -45,6 +45,10 @@ You should see version info. If not, restart your PC.
 
 That’s it. Zero effort. Maximum results.
 
+📜 License
+
+MIT – do whatever you want, just don’t claim you made it 😉
+
 🙌 Credits
 
 Made with ❤️ by Felix (SkyKopf)
